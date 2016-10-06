@@ -4,7 +4,7 @@
 @import '../../src/views-special/structure/variables';
 
 /*  essential site wide css, please don't delete */
-body, html, A, IMG { padding: 0; border: 0; margin: 0; }
+body, html, a, img { padding: 0; border: 0; margin: 0; }
 #appContainer, #pagecontainer { position: relative; }
 #appContainer { margin: 0 auto; overflow: hidden; }
 /* */
@@ -14,15 +14,15 @@ body, html, A, IMG { padding: 0; border: 0; margin: 0; }
 
 
 /* very useful css, but edit at will  */
-#appContainer IMG { display: block; }
-#appContainer A { display: block; }
+#appContainer img { display: block; }
+#appContainer a { display: block; }
 
 
 
 
 
 /* very useful css, helps with responsive, but edit at will  */
-#appContainer IMG { width: auto; max-width: 100%; }
+#appContainer img { width: auto; max-width: 100%; }
 
 
 
